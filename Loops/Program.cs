@@ -1,4 +1,6 @@
-﻿namespace Loops;
+﻿using System;
+
+namespace Loops;
 
 class Program
 {

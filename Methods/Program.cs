@@ -1,5 +1,8 @@
 ﻿//Methods
 
+using System;
+using System.Linq;
+
 namespace Methods
 {
     class Program

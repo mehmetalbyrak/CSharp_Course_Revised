@@ -1,4 +1,6 @@
-﻿int number = 11;
+﻿using System;
+
+int number = 11;
 
 /*
  if (number == 10)

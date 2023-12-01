@@ -1,4 +1,6 @@
-﻿namespace Classes
+﻿using System;
+
+namespace Classes
 {
     class Program
     {

@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Hello World!");
+﻿using System;
+
+Console.WriteLine("Hello World!");
 //data types
 
 double number5 = 10.4;

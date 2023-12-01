@@ -1,4 +1,6 @@
-﻿namespace Inheritance;
+﻿using System;
+
+namespace Inheritance;
 
 class Program
 {

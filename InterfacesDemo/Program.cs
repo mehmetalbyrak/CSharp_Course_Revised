@@ -1,4 +1,6 @@
-﻿namespace InterfacesDemo;
+﻿using System;
+
+namespace InterfacesDemo;
 
 class Program
 {

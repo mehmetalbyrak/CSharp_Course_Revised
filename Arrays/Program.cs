@@ -1,4 +1,6 @@
-﻿namespace Arrays;
+﻿using System;
+
+namespace Arrays;
 
 class Program
 {
