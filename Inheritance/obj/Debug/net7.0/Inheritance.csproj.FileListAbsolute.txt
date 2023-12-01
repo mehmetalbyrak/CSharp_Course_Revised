@@ -1,0 +1,14 @@
+/Users/mehmetalbayrak/Desktop/CSharp_Course_Revised/Inheritance/bin/Debug/net7.0/Inheritance
+/Users/mehmetalbayrak/Desktop/CSharp_Course_Revised/Inheritance/bin/Debug/net7.0/Inheritance.deps.json
+/Users/mehmetalbayrak/Desktop/CSharp_Course_Revised/Inheritance/bin/Debug/net7.0/Inheritance.runtimeconfig.json
+/Users/mehmetalbayrak/Desktop/CSharp_Course_Revised/Inheritance/bin/Debug/net7.0/Inheritance.dll
+/Users/mehmetalbayrak/Desktop/CSharp_Course_Revised/Inheritance/bin/Debug/net7.0/Inheritance.pdb
+/Users/mehmetalbayrak/Desktop/CSharp_Course_Revised/Inheritance/obj/Debug/net7.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetalbayrak/Desktop/CSharp_Course_Revised/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfoInputs.cache
+/Users/mehmetalbayrak/Desktop/CSharp_Course_Revised/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfo.cs
+/Users/mehmetalbayrak/Desktop/CSharp_Course_Revised/Inheritance/obj/Debug/net7.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/mehmetalbayrak/Desktop/CSharp_Course_Revised/Inheritance/obj/Debug/net7.0/Inheritance.dll
+/Users/mehmetalbayrak/Desktop/CSharp_Course_Revised/Inheritance/obj/Debug/net7.0/refint/Inheritance.dll
+/Users/mehmetalbayrak/Desktop/CSharp_Course_Revised/Inheritance/obj/Debug/net7.0/Inheritance.pdb
+/Users/mehmetalbayrak/Desktop/CSharp_Course_Revised/Inheritance/obj/Debug/net7.0/Inheritance.genruntimeconfig.cache
+/Users/mehmetalbayrak/Desktop/CSharp_Course_Revised/Inheritance/obj/Debug/net7.0/ref/Inheritance.dll
